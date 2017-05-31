@@ -1,0 +1,12 @@
+Change Physical Footprint: Designator=E1 Old Footprint=RELAIS_PANASONIC_ADW1212W New Footprint=RELAIS_PANASONIC_ADW1212W
+Change Physical Footprint: Designator=E2 Old Footprint=RELAIS_PANASONIC_ADW1212W New Footprint=RELAIS_PANASONIC_ADW1212W
+Change Physical Footprint: Designator=F1 Old Footprint=Fuse New Footprint=Fuse
+Change Physical Footprint: Designator=F2 Old Footprint=Fuse New Footprint=Fuse
+Change Physical Footprint: Designator=N2 Old Footprint=SOP127P720X175-16N New Footprint=SOP127P720X175-16N
+Change Physical Footprint: Designator=PSU*1 Old Footprint=RAC02-GB New Footprint=RAC02-GB
+Change Physical Footprint: Designator=X1 Old Footprint=1p New Footprint=1p
+Change Physical Footprint: Designator=X2 Old Footprint=1p New Footprint=1p
+Change Physical Footprint: Designator=X3 Old Footprint=1p New Footprint=1p
+Change Physical Footprint: Designator=X4 Old Footprint=1p New Footprint=1p
+Change Physical Footprint: Designator=X5 Old Footprint=1p New Footprint=1p
+Change Physical Footprint: Designator=X*1 Old Footprint=1x6p New Footprint=1x6p

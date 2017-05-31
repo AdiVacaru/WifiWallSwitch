@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=X1-1
+Removed Member From Class: ClassName=2mm Member=NetF1_1
+Removed Member From Class: ClassName=2mm Member=NetPSU*1_1
+Added Pin To Net: NetName=NetF1_2 Pin=PSU*1-1
+Added Pin To Net: NetName=NetF1_1 Pin=R1-2
+Added Pin To Net: NetName=NetF1_2 Pin=X*1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=X1-1
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=2mm Member=Wire NetR1_1

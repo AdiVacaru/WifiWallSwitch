@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetE1_1 Pin=N2-10
+Removed Pin From Net: NetName=NetE1_6 Pin=N2-11
+Removed Pin From Net: NetName=NetE2_6 Pin=N2-15
+Removed Pin From Net: NetName=NetE2_1 Pin=N2-16
+Change Component Designator: OldDesignator=X*3 NewDesignator=X*1
+Added Pin To Net: NetName=NetE2_1 Pin=N2-10
+Added Pin To Net: NetName=NetE2_6 Pin=N2-11
+Added Pin To Net: NetName=NetE1_6 Pin=N2-15
+Added Pin To Net: NetName=NetE1_1 Pin=N2-16
+Added Room: Name=Sheet1

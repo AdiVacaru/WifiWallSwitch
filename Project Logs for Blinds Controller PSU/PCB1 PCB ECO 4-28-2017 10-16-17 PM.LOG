@@ -1,0 +1,6 @@
+Added Component: Designator=R4(RES_0603_IPC_B)
+Added Pin To Net: NetName=12V Pin=R4-2
+Added Pin To Net: NetName=NetN1_5 Pin=N1-5
+Added Pin To Net: NetName=NetN1_5 Pin=R4-1
+Added Net: Name=NetN1_5
+Added Member To Class: ClassName=Sheet1 Member=Component R4 100k

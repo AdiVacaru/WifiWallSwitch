@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=UPOPEN Pin=X*1-1
+Removed Pin From Net: NetName=UPCLOSE Pin=X*1-3
+Removed Pin From Net: NetName=DOWNOPEN Pin=X*1-4
+Removed Pin From Net: NetName=DOWNCLOSE Pin=X*1-5
+Removed Pin From Net: NetName=3V3 Pin=X*1-6
+Added Pin To Net: NetName=3V3 Pin=X*1-1
+Added Pin To Net: NetName=UPOPEN Pin=X*1-3
+Added Pin To Net: NetName=UPCLOSE Pin=X*1-4
+Added Pin To Net: NetName=DOWNOPEN Pin=X*1-5
+Added Pin To Net: NetName=DOWNCLOSE Pin=X*1-6

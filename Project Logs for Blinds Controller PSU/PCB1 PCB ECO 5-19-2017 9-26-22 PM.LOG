@@ -1,0 +1,16 @@
+Change Net Name : Old Net Name=DOWNCLOSE New Net Name=UPOPEN
+Change Net Name : Old Net Name=DOWNOPEN New Net Name=UPCLOSE
+Change Net Name : Old Net Name=UPCLOSE New Net Name=DOWNCLOSE
+Change Net Name : Old Net Name=UPOPEN New Net Name=DOWNOPEN
+Added Member To Class: ClassName=Sheet1 Member=Component E1 ADW1212W
+Added Member To Class: ClassName=Sheet1 Member=Component E2 ADW1212W
+Added Member To Class: ClassName=Sheet1 Member=Component F1 1.25A/250V
+Added Member To Class: ClassName=Sheet1 Member=Component F2 1.25A/250V
+Added Member To Class: ClassName=Sheet1 Member=Component N2 ULN2003D
+Added Member To Class: ClassName=Sheet1 Member=Component PSU*1 PSU Module
+Added Member To Class: ClassName=Sheet1 Member=Component X1 1 PIN
+Added Member To Class: ClassName=Sheet1 Member=Component X2 1 PIN
+Added Member To Class: ClassName=Sheet1 Member=Component X3 1 PIN
+Added Member To Class: ClassName=Sheet1 Member=Component X4 1 PIN
+Added Member To Class: ClassName=Sheet1 Member=Component X5 1 PIN
+Added Member To Class: ClassName=Sheet1 Member=Component X*1 1x6p

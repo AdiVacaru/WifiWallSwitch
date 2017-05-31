@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=NetE1_1 New Net Name=UPOPEN1
+Change Net Name : Old Net Name=NetE1_3 New Net Name=DOWN
+Change Net Name : Old Net Name=NetE1_5 New Net Name=COM1
+Change Net Name : Old Net Name=NetE1_6 New Net Name=UPCLOSE1
+Change Net Name : Old Net Name=NetE2_1 New Net Name=DOWNOPEN1
+Change Net Name : Old Net Name=NetE2_3 New Net Name=UP
+Change Net Name : Old Net Name=NetE2_6 New Net Name=DOWNCLOSE1
+Change Net Name : Old Net Name=NetF1_1 New Net Name=N
+Change Net Name : Old Net Name=NetF1_2 New Net Name=N1
+Change Net Name : Old Net Name=NetF2_2 New Net Name=COM
+Change Net Name : Old Net Name=NetPSU*1_2 New Net Name=L

@@ -1,0 +1,4 @@
+Remove Pin=N2-1 From Net=DOWNCLOSE
+Remove Pin=N2-2 From Net=DOWNOPEN
+Remove Pin=N2-6 From Net=UPCLOSE
+Remove Pin=N2-7 From Net=UPOPEN

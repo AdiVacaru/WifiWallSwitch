@@ -1,0 +1,98 @@
+Added Component: Designator=C1(CAP_0805)
+Added Component: Designator=C2(CAP_1210_IPC_B)
+Added Component: Designator=C3(CAP_1210_IPC_B)
+Added Component: Designator=E1(RELAIS_PANASONIC_ADW1212W)
+Added Component: Designator=E2(RELAIS_PANASONIC_ADW1212W)
+Added Component: Designator=F1(FUSE_THT_8.4x4)
+Added Component: Designator=F2(FUSE_THT_8.4x4)
+Added Component: Designator=L1(IND_0805)
+Added Component: Designator=N1(SOT95P280X145-6N)
+Added Component: Designator=N2(SOP127P720X175-16N)
+Added Component: Designator=PSU*1(MeanWell Psu)
+Added Component: Designator=R1(RES_0603_IPC_B)
+Added Component: Designator=R2(RES_0603_IPC_B)
+Added Component: Designator=R3(RES_0603_IPC_B)
+Added Component: Designator=X1(1p)
+Added Component: Designator=X2(1p)
+Added Component: Designator=X3(1p)
+Added Component: Designator=X4(1p)
+Added Component: Designator=X5(1p)
+Added Component: Designator=X*1(1x6p)
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=X*1-6
+Added Net: Name=3V3
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=12V Pin=E1-7
+Added Pin To Net: NetName=12V Pin=E2-7
+Added Pin To Net: NetName=12V Pin=N1-1
+Added Pin To Net: NetName=12V Pin=N2-9
+Added Pin To Net: NetName=12V Pin=PSU*1-4
+Added Net: Name=12V
+Added Pin To Net: NetName=DOWNCLOSE Pin=X*1-5
+Added Net: Name=DOWNCLOSE
+Added Pin To Net: NetName=DOWNOPEN Pin=X*1-4
+Added Net: Name=DOWNOPEN
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=N1-2
+Added Pin To Net: NetName=GND Pin=N2-8
+Added Pin To Net: NetName=GND Pin=PSU*1-3
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=X*1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=N1-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=N1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=N2-16
+Added Net: Name=NetE1_1
+Added Pin To Net: NetName=NetE1_3 Pin=E1-3
+Added Pin To Net: NetName=NetE1_3 Pin=X3-1
+Added Net: Name=NetE1_3
+Added Pin To Net: NetName=NetE1_5 Pin=E1-5
+Added Pin To Net: NetName=NetE1_5 Pin=E2-5
+Added Pin To Net: NetName=NetE1_5 Pin=F2-1
+Added Net: Name=NetE1_5
+Added Pin To Net: NetName=NetE1_6 Pin=E1-6
+Added Pin To Net: NetName=NetE1_6 Pin=N2-15
+Added Net: Name=NetE1_6
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=N2-10
+Added Net: Name=NetE2_1
+Added Pin To Net: NetName=NetE2_3 Pin=E2-3
+Added Pin To Net: NetName=NetE2_3 Pin=X4-1
+Added Net: Name=NetE2_3
+Added Pin To Net: NetName=NetE2_6 Pin=E2-6
+Added Pin To Net: NetName=NetE2_6 Pin=N2-11
+Added Net: Name=NetE2_6
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=X1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=PSU*1-1
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=X5-1
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetN1_6 Pin=N1-6
+Added Pin To Net: NetName=NetN1_6 Pin=R2-2
+Added Net: Name=NetN1_6
+Added Pin To Net: NetName=NetPSU*1_2 Pin=PSU*1-2
+Added Pin To Net: NetName=NetPSU*1_2 Pin=X2-1
+Added Net: Name=NetPSU*1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=UPCLOSE Pin=X*1-3
+Added Net: Name=UPCLOSE
+Added Pin To Net: NetName=UPOPEN Pin=X*1-2
+Added Net: Name=UPOPEN
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

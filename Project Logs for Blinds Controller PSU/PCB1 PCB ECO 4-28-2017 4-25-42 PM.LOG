@@ -1,0 +1,79 @@
+Added Component: Designator=C1(CAP_0805)
+Added Component: Designator=C2(CAP_1210_IPC_B)
+Added Component: Designator=C3(CAP_1210_IPC_B)
+Added Component: Designator=E1(RELAIS_PANASONIC_ADW1212W)
+Added Component: Designator=E2(RELAIS_PANASONIC_ADW1212W)
+Added Component: Designator=F1(FUSE_THT_8.4x4)
+Added Component: Designator=F2(FUSE_THT_8.4x4)
+Added Component: Designator=L1(IND_0805)
+Added Component: Designator=N1(SOT95P280X145-6N)
+Added Component: Designator=N2(SOP127P720X175-16N)
+Added Component: Designator=PSU*1(MeanWell Psu)
+Added Component: Designator=R1(RES_0603_IPC_B)
+Added Component: Designator=R2(RES_0603_IPC_B)
+Added Component: Designator=R3(RES_0603_IPC_B)
+Added Component: Designator=X*1(1x6p)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_3 Pin=E1-3
+Added Pin To Net: NetName=NetE1_5 Pin=E1-5
+Added Pin To Net: NetName=NetE1_6 Pin=E1-6
+Added Pin To Net: NetName=12V Pin=E1-7
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_3 Pin=E2-3
+Added Pin To Net: NetName=NetE1_5 Pin=E2-5
+Added Pin To Net: NetName=NetE2_6 Pin=E2-6
+Added Pin To Net: NetName=12V Pin=E2-7
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetE1_5 Pin=F2-1
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=12V Pin=N1-1
+Added Pin To Net: NetName=GND Pin=N1-2
+Added Pin To Net: NetName=NetC1_2 Pin=N1-3
+Added Pin To Net: NetName=NetC1_1 Pin=N1-4
+Added Pin To Net: NetName=NetN1_6 Pin=N1-6
+Added Pin To Net: NetName=GND Pin=N2-8
+Added Pin To Net: NetName=12V Pin=N2-9
+Added Pin To Net: NetName=NetE2_1 Pin=N2-10
+Added Pin To Net: NetName=NetE2_6 Pin=N2-11
+Added Pin To Net: NetName=NetE1_6 Pin=N2-15
+Added Pin To Net: NetName=NetE1_1 Pin=N2-16
+Added Pin To Net: NetName=NetF1_2 Pin=PSU*1-1
+Added Pin To Net: NetName=NetPSU*1_2 Pin=PSU*1-2
+Added Pin To Net: NetName=GND Pin=PSU*1-3
+Added Pin To Net: NetName=12V Pin=PSU*1-4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetN1_6 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=X*1-1
+Added Pin To Net: NetName=UPOPEN Pin=X*1-2
+Added Pin To Net: NetName=UPCLOSE Pin=X*1-3
+Added Pin To Net: NetName=DOWNOPEN Pin=X*1-4
+Added Pin To Net: NetName=DOWNCLOSE Pin=X*1-5
+Added Pin To Net: NetName=3V3 Pin=X*1-6
+Added Member To Class: ClassName=Sheet1 Member=Component C1 1µF/16V
+Added Member To Class: ClassName=Sheet1 Member=Component C2 10uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10uF/25V
+Added Member To Class: ClassName=Sheet1 Member=Component E1 ADW1212W
+Added Member To Class: ClassName=Sheet1 Member=Component E2 ADW1212W
+Added Member To Class: ClassName=Sheet1 Member=Component F1 1.25A/250V
+Added Member To Class: ClassName=Sheet1 Member=Component F2 1.25A/250V
+Added Member To Class: ClassName=Sheet1 Member=Component L1 4.7uH/850mA/250mR
+Added Member To Class: ClassName=Sheet1 Member=Component N1 MP1469GJ-Z
+Added Member To Class: ClassName=Sheet1 Member=Component N2 ULN2003D
+Added Member To Class: ClassName=Sheet1 Member=Component PSU*1 PSU Module
+Added Member To Class: ClassName=Sheet1 Member=Component R1 3.3k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 3.3k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 3.3k
+Added Member To Class: ClassName=Sheet1 Member=Component X*1 1x6p
