@@ -1,9 +1,0 @@
-Added Component: Designator=C1(CAP_1206_IPC_B)
-Added Component: Designator=C2(CAP_1206_IPC_B)
-Added Pin To Net: NetName=GND Pin=C1-1
-Added Pin To Net: NetName=12V Pin=C1-2
-Added Pin To Net: NetName=GND Pin=C2-1
-Added Pin To Net: NetName=12V Pin=C2-2
-Added Member To Class: ClassName=Sheet1 Member=Component C1 10nF/500V
-Added Member To Class: ClassName=Sheet1 Member=Component C2 10nF/500V
-Added Member To Class: ClassName=Sheet1 Member=Component X*1 1 PIN
